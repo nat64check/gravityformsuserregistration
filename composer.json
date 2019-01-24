@@ -1,0 +1,13 @@
+{
+  "name": "nat64check/gravityformsuserregistration",
+  "description": "Gravity Forms User Registration plugin for NAT64Check",
+  "keywords": ["wordpress"],
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Rocketgenius, Inc.",
+      "homepage": "https://www.rocketgenius.com"
+    }
+  ],
+  "license": "GPL-2.0-or-later"
+}
